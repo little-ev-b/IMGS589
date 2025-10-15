@@ -8,3 +8,5 @@
 tait_labsphere/
 
 *.hdr
+
+*.pyc, __pycache__/
